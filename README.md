@@ -1,5 +1,5 @@
 # TENTANG
-Simulasi Perhitungan Estimasi Waktu Download / Upload File Berdasarkan Ukuran File. Website ini bisa digunakan untuk estimasi berapa lama waktu yang dibutuhkan untuk download atau upload sesuai kecepatan internet yang anda inginkan
+Simulasi Perhitungan Estimasi Waktu Download / Upload File Berdasarkan Ukuran File. Website ini bisa digunakan untuk menghitung simulasi estimasi waktu yang dibutuhkan untuk download atau upload sesuai kecepatan internet yang anda inginkan.
 
 ## FITUR
 1. Ukuran File dalam KB/MB/GB
